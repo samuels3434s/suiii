@@ -35,7 +35,7 @@
 
 
 
-7. `python3 suiii.py`
+7. `python3 suii.py`
 
 
 
